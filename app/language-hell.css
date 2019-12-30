@@ -1,12 +1,12 @@
 /*(Default) English US/UK*/
-.wrapper-3t9DeA + .avatarHint-1qgaV3{
+html{
     --avatar-hint-text: "VIEW PROFILE";
     --avatar-hint-size: 10px;
     --avatar-hint-color: #fff;
 }
 
 /*PTBR*/
-html[lang="pt-BR"] .wrapper-3t9DeA + .avatarHint-1qgaV3{
+html[lang="pt-BR"]{
     --avatar-hint-text: "VER PERFIL";
     --avatar-hint-size: 10px;
     --avatar-hint-color: #fff;
