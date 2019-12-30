@@ -1,0 +1,13 @@
+.avatarHint-1qgaV3 .avatarHintInner-Dco91E{
+    font-size: 0;
+    text-transform: none;
+}
+
+.avatarHint-1qgaV3 .avatarHintInner-Dco91E::after{
+    white-space: normal;
+    text-align: center;
+    content: var(--avatar-hint-text);
+    color: var(--avatar-hint-color);
+    font-size: var(--avatar-hint-size);
+    font-family: var(--avatar-hint-font);
+}
