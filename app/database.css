@@ -1,3 +1,7 @@
+/*importing custom fonts bcs why not?*/
+@font-face {font-family: 'Product Sans';font-style: normal;font-weight: 400;src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');}
+
+/*Database*/
 .wrapper-3t9DeA[aria-label^="A user, "] + .avatarHint-1qgaV3{
     --avatar-hint-text: "( ^ 3 ^ )";
     --avatar-hint-size: 16px;
