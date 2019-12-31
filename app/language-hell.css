@@ -5,9 +5,163 @@ html{
     --avatar-hint-color: #fff;
 }
 
-/*PTBR*/
+/*da*/
+html[lang="da"]{
+    --avatar-hint-text: "SE PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*de*/
+html[lang="de"]{
+    --avatar-hint-text: "PROFIL ANSEHEN";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*es-ES*/
+html[lang="es-ES"]{
+    --avatar-hint-text: "VER PERFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*fr*/
+html[lang="fr"]{
+    --avatar-hint-text: "VOIR LE PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*hr*/
+html[lang="hr"]{
+    --avatar-hint-text: "PRIKAŽI PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*it (film reference?)*/
+html[lang="it"]{
+    --avatar-hint-text: "VISUALIZZA PROFILO";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*lt*/
+html[lang="lt"]{
+    --avatar-hint-text: "PERŽIŪRĖTI PROFILĮ";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*hu*/
+html[lang="hu"]{
+    --avatar-hint-text: "PROFIL MEGTEKINTÉSE";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*nl*/
+html[lang="nl"]{
+    --avatar-hint-text: "PROFIEL BEKIJKEN";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*no (lol)*/
+html[lang="no"]{
+    --avatar-hint-text: "VIS PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*pl*/
+html[lang="pl"]{
+    --avatar-hint-text: "ZOBACZ PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*pt- BR*/
 html[lang="pt-BR"]{
     --avatar-hint-text: "VER PERFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*ro*/
+html[lang="ro"]{
+    --avatar-hint-text: "VEZI PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*ro*/
+html[lang="ro"]{
+    --avatar-hint-text: "VEZI PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*fi*/
+html[lang="fi"]{
+    --avatar-hint-text: "NÄYTÄ PROFIILI";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*sv-SE*/
+html[lang="sv-SE"]{
+    --avatar-hint-text: "VISA PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*vi*/
+html[lang="vi"]{
+    --avatar-hint-text: "XEM HỒ SƠ";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*tr*/
+html[lang="tr"]{
+    --avatar-hint-text: "PROFILI GÖRÜNTÜLE";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*csgo*/
+html[lang="cs"]{
+    --avatar-hint-text: "ZOBRAZIT PROFIL";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*el*/
+html[lang="el"]{
+    --avatar-hint-text: "ΠΡΟΒΟΛΉ ΠΡΟΦΊΛ";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*bg (background?)*/
+html[lang="bg"]{
+    --avatar-hint-text: "ПРЕГЛЕД НА ПРОФИЛ";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*ru https://youtu.be/g3KNZaaRPTs?t=15*/
+html[lang="ru"]{
+    --avatar-hint-text: "ПРОФИЛЬ";
+    --avatar-hint-size: 10px;
+    --avatar-hint-color: #fff;
+}
+
+/*uk (not england)*/
+html[lang="uk"]{
+    --avatar-hint-text: "ПЕРЕГЛЯНУТИ ПРОФІЛЬ";
     --avatar-hint-size: 10px;
     --avatar-hint-color: #fff;
 }
