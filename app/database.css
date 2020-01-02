@@ -4,7 +4,7 @@
 /*Database*/
 
 /*A user*/
-.wrapper-3t9DeA[aria-label^="A user, "] + .avatarHint-1qgaV3{
+.wrapper-3t9DeA[aria-label^="A user, 264062457448759296, "] + .avatarHint-1qgaV3{
     --avatar-hint-text: "( ^ 3 ^ )";
     --avatar-hint-size: 16px;
     --avatar-hint-color: #fff;
@@ -12,7 +12,7 @@
 }
 
 /*Kirishima Ayato*/
-.wrapper-3t9DeA[aria-label^="Kirishima Ayato, "] + .avatarHint-1qgaV3{
+.wrapper-3t9DeA[aria-label^="Kirishima Ayato, 240482174686593025, "] + .avatarHint-1qgaV3{
     --avatar-hint-text: "Master XD";
     --avatar-hint-size: 12px;
 }
