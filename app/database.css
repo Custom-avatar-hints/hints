@@ -4,10 +4,10 @@
 /*Database*/
 
 /*A user*/
-[aria-label^="A user, "],
-[aria-label^="A user, "] + .avatarHint-1qgaV3,
 [aria-label*="264062457448759296, "],
-[aria-label*="264062457448759296, "] + .avatarHint-1qgaV3{
+[aria-label*="264062457448759296, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="264062457448759296"],
+[user_by_bdfdb="264062457448759296"] .avatarHint-1qgaV3{
     --avatar-hint-text: "( ^ 3 ^ )";
     --avatar-hint-size: 16px;
     --avatar-hint-color: #fff;
@@ -15,10 +15,10 @@
 }
 
 /*Kirishima Ayato*/
-[aria-label^="Kirishima Ayato, "],
-[aria-label^="Kirishima Ayato, "] + .avatarHint-1qgaV3,
-[aria-label*="240482174686593025,"],
-[aria-label*="240482174686593025,"] + .avatarHint-1qgaV3{
+[aria-label*="240482174686593025, "],
+[aria-label*="240482174686593025, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="240482174686593025"],
+[user_by_bdfdb="240482174686593025"] .avatarHint-1qgaV3{
     --avatar-hint-text: "Master XD";
     --avatar-hint-size: 12px;
 }
