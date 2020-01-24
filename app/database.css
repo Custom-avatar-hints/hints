@@ -33,3 +33,14 @@
     --avatar-hint-color: #ba005d;
     --avatar-hint-font: "Comic Sans MS", "Comic Sans", cursive;;}
 }
+
+/*With Mask | ດຽວ#1337*/
+[aria-label*="363035228198928407, "],
+[aria-label*="363035228198928407, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="363035228198928407"],
+[user_by_bdfdb="363035228198928407"] .avatarHint-1qgaV3{
+--avatar-hint-text: "Code ☕";
+--avatar-hint-size: 18px;
+--avatar-hint-color: #fff;
+--avatar-hint-font: Courier;
+}
