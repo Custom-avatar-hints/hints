@@ -4,8 +4,8 @@
 /*Database*/
 
 /*A user*/
-[aria-label*="264062457448759296, "],
-[aria-label*="264062457448759296, "] + .avatarHint-1qgaV3,
+[aria-label*="264062457448759296,"],
+[aria-label*="264062457448759296,"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="264062457448759296"],
 [user_by_bdfdb="264062457448759296"] .avatarHint-1qgaV3{
     --avatar-hint-text: "( ^ 3 ^ )";
@@ -15,8 +15,8 @@
 }
 
 /*Kirishima Ayato*/
-[aria-label*="240482174686593025, "],
-[aria-label*="240482174686593025, "] + .avatarHint-1qgaV3,
+[aria-label*="240482174686593025,"],
+[aria-label*="240482174686593025,"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="240482174686593025"],
 [user_by_bdfdb="240482174686593025"] .avatarHint-1qgaV3{
     --avatar-hint-text: "Master XD";
@@ -24,8 +24,8 @@
 }
 
 /*👑 Reĝino Kastilo#0115*/
-[aria-label*="143476079267414016, "],
-[aria-label*="143476079267414016, "] + .avatarHint-1qgaV3,
+[aria-label*="143476079267414016,"],
+[aria-label*="143476079267414016,"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="143476079267414016"],
 [user_by_bdfdb="143476079267414016"] .avatarHint-1qgaV3{
     --avatar-hint-text: "^°•~•°^";
@@ -35,12 +35,12 @@
 }
 
 /*With Mask | ດຽວ#1337*/
-[aria-label*="363035228198928407, "],
-[aria-label*="363035228198928407, "] + .avatarHint-1qgaV3,
+[aria-label*="363035228198928407,"],
+[aria-label*="363035228198928407,"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="363035228198928407"],
 [user_by_bdfdb="363035228198928407"] .avatarHint-1qgaV3{
---avatar-hint-text: "Code ☕";
---avatar-hint-size: 18px;
---avatar-hint-color: #fff;
---avatar-hint-font: Courier;
+    --avatar-hint-text: "Code ☕";
+    --avatar-hint-size: 18px;
+    --avatar-hint-color: #fff;
+    --avatar-hint-font: Courier;
 }
