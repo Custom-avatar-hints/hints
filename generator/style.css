@@ -143,6 +143,7 @@ body::before{
 
 .avatar .hint span{
     white-space: nowrap;
+    font-weight: 700;
 }
 
 input{
