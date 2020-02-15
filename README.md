@@ -6,7 +6,7 @@
 <br>
 
 ### Themes officially using
-[Bash](https://github.com/A-User-s-Discord-Themes/Bash) by A user
+[Bash](https://github.com/A-User-s-Discord-Themes/Bash) by A user ....
 
 
 <h3 align=right> Links </h3>
