@@ -10,5 +10,5 @@
 
 
 <h3 align=right> Links </h3>
-<p align=right><a href="https://a-user-s-discord-themes.github.io/Custom-Avatar-Hint/generator/">Generator</a></p>
+<p align=right><a href="https://custom-avatar-hints.github.io/hints/generator/">Generator</a></p>
 <p align=right><a href="https://discord.gg/jGmSTkk">Server</a></p>
