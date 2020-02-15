@@ -44,3 +44,14 @@
     --avatar-hint-color: #fff;
     --avatar-hint-font: Courier;
 }
+
+/*Pqtato #3737*/
+[aria-label*="209419219899514880, "],
+[aria-label*="209419219899514880, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="209419219899514880"],
+[user_by_bdfdb="209419219899514880"] .avatarHint-1qgaV3{
+--avatar-hint-text: "[+..••]";
+--avatar-hint-size: 19px;
+--avatar-hint-color: #fff;
+--avatar-hint-font: 'Product Sans';
+}
