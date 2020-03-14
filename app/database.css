@@ -55,3 +55,14 @@
 --avatar-hint-color: #fff;
 --avatar-hint-font: 'Product Sans';
 }
+
+/*BrizzyRBX #0001*/
+[aria-label*="285124312032083968, "],
+[aria-label*="285124312032083968, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="285124312032083968"],
+[user_by_bdfdb="285124312032083968"] .avatarHint-1qgaV3{
+--avatar-hint-text: "Brizzy";
+--avatar-hint-size: 24px;
+--avatar-hint-color: #b19cd9;
+--avatar-hint-font: 'Product Sans';
+}
