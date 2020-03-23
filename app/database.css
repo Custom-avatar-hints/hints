@@ -66,3 +66,15 @@
 --avatar-hint-color: #00008b;
 --avatar-hint-font: 'Product Sans';
 }
+
+/*💕#6868*/
+[aria-label*="307273349997002752, "],
+[aria-label*="307273349997002752, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="307273349997002752"],
+[user_by_bdfdb="307273349997002752"] .avatarHint-1qgaV3{
+--avatar-hint-text: "lovely 💖";
+--avatar-hint-size: 13px;
+--avatar-hint-color: #F7E9EA;
+--avatar-hint-font: 'Product Sans';
+}
+
