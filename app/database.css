@@ -78,3 +78,23 @@
 --avatar-hint-font: 'Product Sans';
 }
 
+/*Viennella#0001*/
+[aria-label*="250353310698176522, "],
+[aria-label*="250353310698176522, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="250353310698176522"],
+[user_by_bdfdb="250353310698176522"] .avatarHint-1qgaV3{
+--avatar-hint-text: "🌙Enchanted Symphony";
+--avatar-hint-size: 10px;
+--avatar-hint-color: #ffc501;
+--avatar-hint-font: ;
+}
+
+/*Viennella#0001*/
+[aria-label*="250353310698176522, "],
+[aria-label*="250353310698176522, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="250353310698176522"],
+[user_by_bdfdb="250353310698176522"] .avatarHint-1qgaV3{
+--avatar-hint-text: "🌙Enchanted Symphony";
+--avatar-hint-size: 8px;
+--avatar-hint-color: #ffc501;
+}
