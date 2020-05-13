@@ -98,3 +98,14 @@
 --avatar-hint-size: 10px;
 --avatar-hint-color: #ffc501;
 }
+
+/*boop#9999*/
+[aria-label*="539916102038192128, "],
+[aria-label*="539916102038192128, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="539916102038192128"],
+[user_by_bdfdb="539916102038192128"] .avatarHint-1qgaV3{
+--avatar-hint-text: "boop on top";
+--avatar-hint-size: 10px;
+--avatar-hint-color: #00ffff;
+--avatar-hint-font: Verdana;
+}
