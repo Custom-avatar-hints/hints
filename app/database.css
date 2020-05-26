@@ -109,3 +109,15 @@
 --avatar-hint-color: #00ffff;
 --avatar-hint-font: Verdana;
 }
+
+
+/*𝚊𝚙𝚕𝚎𝙳𝚒𝚜𝚌𝚘𝚛𝚍#0913*/
+[aria-label*="438846426441711616, "],
+[aria-label*="438846426441711616, "] + .avatarHint-1qgaV3,
+[user_by_bdfdb="438846426441711616"],
+[user_by_bdfdb="438846426441711616"] .avatarHint-1qgaV3{
+--avatar-hint-text: "aple";
+--avatar-hint-size: 20px;
+--avatar-hint-color: #fff;
+--avatar-hint-font: 'Product Sans';
+}
