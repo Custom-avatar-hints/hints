@@ -4,8 +4,8 @@
 /*Database*/
 
 /*A user*/
-[aria-label*="264062457448759296,"],
-[aria-label*="264062457448759296,"] + .avatarHint-1qgaV3,
+[data-user-id*="264062457448759296"],
+[data-user-id*="264062457448759296"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="264062457448759296"],
 [user_by_bdfdb="264062457448759296"] .avatarHint-1qgaV3{
     --avatar-hint-text: "( ^ 3 ^ )";
@@ -15,8 +15,8 @@
 }
 
 /*Kirishima Ayato*/
-[aria-label*="240482174686593025,"],
-[aria-label*="240482174686593025,"] + .avatarHint-1qgaV3,
+[data-user-id*="240482174686593025"],
+[data-user-id*="240482174686593025"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="240482174686593025"],
 [user_by_bdfdb="240482174686593025"] .avatarHint-1qgaV3{
     --avatar-hint-text: "Master XD";
@@ -24,8 +24,8 @@
 }
 
 /*👑 Reĝino Kastilo#0115*/
-[aria-label*="143476079267414016,"],
-[aria-label*="143476079267414016,"] + .avatarHint-1qgaV3,
+[data-user-id*="143476079267414016"],
+[data-user-id*="143476079267414016"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="143476079267414016"],
 [user_by_bdfdb="143476079267414016"] .avatarHint-1qgaV3{
     --avatar-hint-text: "^°•~•°^";
@@ -35,8 +35,8 @@
 }
 
 /*With Mask | ດຽວ#1337*/
-[aria-label*="363035228198928407,"],
-[aria-label*="363035228198928407,"] + .avatarHint-1qgaV3,
+[data-user-id*="363035228198928407"],
+[data-user-id*="363035228198928407"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="363035228198928407"],
 [user_by_bdfdb="363035228198928407"] .avatarHint-1qgaV3{
     --avatar-hint-text: "Code ☕";
@@ -46,8 +46,8 @@
 }
 
 /*Pqtato #3737*/
-[aria-label*="209419219899514880, "],
-[aria-label*="209419219899514880, "] + .avatarHint-1qgaV3,
+[data-user-id*="209419219899514880"],
+[data-user-id*="209419219899514880"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="209419219899514880"],
 [user_by_bdfdb="209419219899514880"] .avatarHint-1qgaV3{
 --avatar-hint-text: "[+..••]";
@@ -57,8 +57,8 @@
 }
 
 /*BrizzyRBX #0001*/
-[aria-label*="285124312032083968, "],
-[aria-label*="285124312032083968, "] + .avatarHint-1qgaV3,
+[data-user-id*="285124312032083968"],
+[data-user-id*="285124312032083968"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="285124312032083968"],
 [user_by_bdfdb="285124312032083968"] .avatarHint-1qgaV3{
 --avatar-hint-text: "Brizzy";
@@ -68,8 +68,8 @@
 }
 
 /*💕#6868*/
-[aria-label*="307273349997002752, "],
-[aria-label*="307273349997002752, "] + .avatarHint-1qgaV3,
+[data-user-id*="307273349997002752"],
+[data-user-id*="307273349997002752"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="307273349997002752"],
 [user_by_bdfdb="307273349997002752"] .avatarHint-1qgaV3{
 --avatar-hint-text: "lovely 💖";
@@ -79,8 +79,8 @@
 }
 
 /*Viennella#0001*/
-[aria-label*="250353310698176522, "],
-[aria-label*="250353310698176522, "] + .avatarHint-1qgaV3,
+[data-user-id*="250353310698176522"],
+[data-user-id*="250353310698176522"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="250353310698176522"],
 [user_by_bdfdb="250353310698176522"] .avatarHint-1qgaV3{
 --avatar-hint-text: "🌙Enchanted Symphony";
@@ -90,8 +90,8 @@
 }
 
 /*Viennella#0001*/
-[aria-label*="250353310698176522, "],
-[aria-label*="250353310698176522, "] + .avatarHint-1qgaV3,
+[data-user-id*="250353310698176522"],
+[data-user-id*="250353310698176522"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="250353310698176522"],
 [user_by_bdfdb="250353310698176522"] .avatarHint-1qgaV3{
 --avatar-hint-text: "🌙Enchanted Symphony";
@@ -100,8 +100,8 @@
 }
 
 /*boop#9999*/
-[aria-label*="539916102038192128, "],
-[aria-label*="539916102038192128, "] + .avatarHint-1qgaV3,
+[data-user-id*="539916102038192128"],
+[data-user-id*="539916102038192128"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="539916102038192128"],
 [user_by_bdfdb="539916102038192128"] .avatarHint-1qgaV3{
 --avatar-hint-text: "boop on top";
@@ -112,8 +112,8 @@
 
 
 /*𝚊𝚙𝚕𝚎𝙳𝚒𝚜𝚌𝚘𝚛𝚍#0913*/
-[aria-label*="438846426441711616, "],
-[aria-label*="438846426441711616, "] + .avatarHint-1qgaV3,
+[data-user-id*="438846426441711616"],
+[data-user-id*="438846426441711616"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="438846426441711616"],
 [user_by_bdfdb="438846426441711616"] .avatarHint-1qgaV3{
 --avatar-hint-text: "aple";
