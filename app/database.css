@@ -121,3 +121,25 @@
 --avatar-hint-color: #fff;
 --avatar-hint-font: 'Product Sans';
 }
+
+/*Swishilicous#2339*/
+[data-user-id*="474322346937810955"],
+[data-user-id*="474322346937810955"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="474322346937810955"],
+[user_by_bdfdb="474322346937810955"] .avatarHint-1qgaV3{
+--avatar-hint-text: "(◕‿◕✿)";
+--avatar-hint-size: 13px;
+--avatar-hint-color: #fff;
+--avatar-hint-font: 'Product Sans';
+}
+
+/*ThePizzaMuncher#7687*/
+[data-user-id*="335838133046214659"],
+[data-user-id*="335838133046214659"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="335838133046214659"],
+[user_by_bdfdb="335838133046214659"] .avatarHint-1qgaV3{
+--avatar-hint-text: "~~:.|:;~~";
+--avatar-hint-size: 13px;
+--avatar-hint-color: #fff;
+--avatar-hint-font: 'Courier New';
+}
