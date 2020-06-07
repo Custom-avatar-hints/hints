@@ -143,3 +143,14 @@
 --avatar-hint-color: #fff;
 --avatar-hint-font: 'Courier New';
 }
+
+/*Matt.#0420*/
+[data-user-id*="146969728919797760"],
+[data-user-id*="146969728919797760"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="146969728919797760"],
+[user_by_bdfdb="146969728919797760"] .avatarHint-1qgaV3{
+--avatar-hint-text: "📱 damm o telefn";
+--avatar-hint-size: 11px;
+--avatar-hint-color: #b00;
+--avatar-hint-font: ;
+}
