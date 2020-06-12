@@ -86,17 +86,6 @@
 --avatar-hint-text: "🌙Enchanted Symphony";
 --avatar-hint-size: 10px;
 --avatar-hint-color: #ffc501;
---avatar-hint-font: ;
-}
-
-/*Viennella#0001*/
-[data-user-id*="250353310698176522"],
-[data-user-id*="250353310698176522"] + .avatarHint-1qgaV3,
-[user_by_bdfdb="250353310698176522"],
-[user_by_bdfdb="250353310698176522"] .avatarHint-1qgaV3{
---avatar-hint-text: "🌙Enchanted Symphony";
---avatar-hint-size: 10px;
---avatar-hint-color: #ffc501;
 }
 
 /*boop#9999*/
@@ -127,8 +116,8 @@
 [data-user-id*="474322346937810955"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="474322346937810955"],
 [user_by_bdfdb="474322346937810955"] .avatarHint-1qgaV3{
---avatar-hint-text: "(◕‿◕✿)";
---avatar-hint-size: 13px;
+--avatar-hint-text: "Tuturu!";
+--avatar-hint-size: 14px;
 --avatar-hint-color: #fff;
 --avatar-hint-font: 'Product Sans';
 }
@@ -152,5 +141,15 @@
 --avatar-hint-text: "📱 damm o telefn";
 --avatar-hint-size: 11px;
 --avatar-hint-color: #b00;
---avatar-hint-font: ;
+}
+
+/*Ominitay#3950*/
+[data-user-id*="391995631264333844"],
+[data-user-id*="391995631264333844"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="391995631264333844"],
+[user_by_bdfdb="391995631264333844"] .avatarHint-1qgaV3{
+--avatar-hint-text: "Going Crazy";
+--avatar-hint-size: 16px;
+--avatar-hint-color: #fff;
+--avatar-hint-font: 'Product Sans';
 }
