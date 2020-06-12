@@ -6,9 +6,10 @@
 <br>
 
 ### Themes officially using
-[Bash](https://github.com/A-User-s-Discord-Themes/Bash) by A user ....
+[Bash](https://github.com/A-User-s-Discord-Themes/Bash) by A user <br>
+[Couve](https://github.com/A-User-s-Discord-Themes/Couve) by A user
 
 
-<h3 align=right> Links </h3>
-<p align=right><a href="https://custom-avatar-hints.github.io/hints/generator/">Generator</a></p>
-<p align=right><a href="https://discord.gg/jGmSTkk">Server</a></p>
+# Links
+[Generator](https://custom-avatar-hints.github.io/hints/generator/) <br>
+[Server](https://discord.gg/jGmSTkk)
