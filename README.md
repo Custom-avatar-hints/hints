@@ -5,11 +5,11 @@
 <br>
 <br>
 
-### Themes officially using
+## Themes officially using
 [Bash](https://github.com/A-User-s-Discord-Themes/Bash) by A user <br>
 [Couve](https://github.com/A-User-s-Discord-Themes/Couve) by A user
 
 
-# Links
+## Links
 [Generator](https://custom-avatar-hints.github.io/hints/generator/) <br>
 [Server](https://discord.gg/jGmSTkk)
