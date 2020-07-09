@@ -83,9 +83,8 @@
 [data-user-id*="250353310698176522"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="250353310698176522"],
 [user_by_bdfdb="250353310698176522"] .avatarHint-1qgaV3{
---avatar-hint-text: "Lapis Lazuli";
---avatar-hint-size: 10px;
---avatar-hint-color: #bdf9ea;
+--avatar-hint-text: "💖";
+--avatar-hint-size: 40px;
 }
 
 /*boop#9999*/
@@ -152,4 +151,24 @@
 --avatar-hint-size: 16px;
 --avatar-hint-color: #fff;
 --avatar-hint-font: 'Product Sans';
+}
+
+/*😈𝑳𝒖𝒄𝒊𝒇𝒆𝒓_𝒖𝒘𝒖😈#6358*/
+[data-user-id*="429246492071559188"],
+[data-user-id*="429246492071559188"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="429246492071559188"],
+[user_by_bdfdb="429246492071559188"] .avatarHint-1qgaV3{
+--avatar-hint-text: "UwU hi";
+--avatar-hint-size: 20px;
+--avatar-hint-color: #fff;
+}
+
+/*Unknown#6204*/
+[data-user-id*="414220695623434241"],
+[data-user-id*="414220695623434241"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="414220695623434241"],
+[user_by_bdfdb="414220695623434241"] .avatarHint-1qgaV3{
+--avatar-hint-text: "ツ";
+--avatar-hint-size: 25px;
+--avatar-hint-color: #fff;
 }
