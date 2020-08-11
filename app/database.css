@@ -158,9 +158,10 @@
 [data-user-id*="429246492071559188"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="429246492071559188"],
 [user_by_bdfdb="429246492071559188"] .avatarHint-1qgaV3{
---avatar-hint-text: "UwU hi";
+--avatar-hint-text: "Hi uwu";
 --avatar-hint-size: 20px;
---avatar-hint-color: #fff;
+--avatar-hint-color: #f0f;
+--avatar-hint-font: 'Product Sans';
 }
 
 /*Unknown#6204*/
