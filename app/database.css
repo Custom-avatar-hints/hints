@@ -170,9 +170,10 @@
 [data-user-id*="414220695623434241"] + .avatarHint-1qgaV3,
 [user_by_bdfdb="414220695623434241"],
 [user_by_bdfdb="414220695623434241"] .avatarHint-1qgaV3{
---avatar-hint-text: "ツ";
---avatar-hint-size: 25px;
+--avatar-hint-text: "『 』";
+--avatar-hint-size: 36px;
 --avatar-hint-color: #fff;
+--avatar-hint-font: 'Noto Serif JP';
 }
 
 /*imnothurb#8286*/
@@ -183,4 +184,15 @@
 --avatar-hint-text: "bruh click";
 --avatar-hint-size: 14px;
 --avatar-hint-font: 'Merriweather Sans';
+}
+
+/*Peachk#3232*/
+[data-user-id*="442806080171540481"],
+[data-user-id*="442806080171540481"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="442806080171540481"],
+[user_by_bdfdb="442806080171540481"] .avatarHint-1qgaV3{
+--avatar-hint-text: "『YUMMY』";
+--avatar-hint-size: 13px;
+--avatar-hint-color: #ff4f11;
+--avatar-hint-font: 'Noto Serif JP';
 }
