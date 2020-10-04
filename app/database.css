@@ -196,3 +196,25 @@
 --avatar-hint-color: #ff4f11;
 --avatar-hint-font: 'Noto Serif JP';
 }
+
+/*Larvey#0001*/
+[data-user-id*="245653078794174465"],
+[data-user-id*="245653078794174465"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="245653078794174465"],
+[user_by_bdfdb="245653078794174465"] .avatarHint-1qgaV3{
+--avatar-hint-text: "Love Games";
+--avatar-hint-size: 12px;
+--avatar-hint-color: #fff;
+--avatar-hint-font: 'Product Sans';
+}
+
+/*KAJ7#0001*/
+[data-user-id*="282565295351136256"],
+[data-user-id*="282565295351136256"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="282565295351136256"],
+[user_by_bdfdb="282565295351136256"] .avatarHint-1qgaV3{
+--avatar-hint-text: "dsc.gg";
+--avatar-hint-size: 22px;
+--avatar-hint-color: #fff;
+--avatar-hint-font: 'Product Sans';
+}
