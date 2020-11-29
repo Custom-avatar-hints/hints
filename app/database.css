@@ -218,3 +218,24 @@
 --avatar-hint-color: #fff;
 --avatar-hint-font: 'Product Sans';
 }
+
+/*Tyzze /グレゴワル#5472*/
+[data-user-id*="349512889666895882"],
+[data-user-id*="349512889666895882"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="349512889666895882"],
+[user_by_bdfdb="349512889666895882"] .avatarHint-1qgaV3{
+--avatar-hint-text: "lolis is pretty good";
+--avatar-hint-size: 20;
+--avatar-hint-color: #2065;
+--avatar-hint-font: 'Product Sans';
+}
+
+/*Captain Frozenmoon#7209*/
+[data-user-id*="463885160450883606"],
+[data-user-id*="463885160450883606"] + .avatarHint-1qgaV3,
+[user_by_bdfdb="463885160450883606"],
+[user_by_bdfdb="463885160450883606"] .avatarHint-1qgaV3{
+--avatar-hint-text: "𝓤𝓦𝓤";
+--avatar-hint-size: 26;
+--avatar-hint-color: #fff;
+}
